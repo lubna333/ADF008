@@ -1,0 +1,9 @@
+{
+	"name": "adfkeyvaultassignment",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4aab446f-c9a7-4f4c-b841-a09d803cb263",
+		"tenantId": "f4ee4c08-a39d-4790-bda9-c3fc5d49ca6b"
+	}
+}

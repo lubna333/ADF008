@@ -1,0 +1,13 @@
+{
+	"name": "integrationRuntime2",
+	"properties": {
+		"type": "SelfHosted",
+		"description": "Using same SHSQL",
+		"typeProperties": {
+			"linkedInfo": {
+				"resourceId": "/subscriptions/5dab195c-23a6-4911-8e1e-e5a7d6e131db/resourcegroups/rgnewsqladls/providers/Microsoft.DataFactory/factories/adfnewsqladls/integrationruntimes/integrationRuntime1",
+				"authorizationType": "Rbac"
+			}
+		}
+	}
+}
