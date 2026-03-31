@@ -1,0 +1,9 @@
+{
+	"name": "adfsqladlsproject1",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0fda22a9-53fb-43a9-8983-e6dbe6a605f8",
+		"tenantId": "f4ee4c08-a39d-4790-bda9-c3fc5d49ca6b"
+	}
+}
